@@ -20,7 +20,7 @@ jobs:
           echo sudo\ apt\ install\ \"\*multi\"\ \"multi\*\" 
           
           pip install cmake_converter
-          cmake-converter -s TeconMoon's WiiVC Injector.sln
+          cmake-converter -s TeconMoon\'s\ WiiVC\ Injector.sln
           cmake . 
           
           make -j66
